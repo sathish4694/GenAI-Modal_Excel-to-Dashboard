@@ -1,0 +1,7 @@
+python-dotenv
+openai==0.28
+pandas
+plotly
+streamlit
+openpyxl
+kaleido
